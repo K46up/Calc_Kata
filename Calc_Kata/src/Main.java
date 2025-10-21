@@ -22,7 +22,6 @@ public class Main {
     public static String calc (String input) throws IOException {
 
 
-        // rjvvtyn lkz ntcnf
         String[] words = input.split(" ");
 
         //проверка на кол-во элементов в массиве, позволяет отсеить (1), (1 + 3 - 5)
